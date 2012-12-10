@@ -42,3 +42,25 @@ rm -rf %{buildroot}
 %attr(0755,root,root) %{_bindir}/%{name}
 %{_mandir}/man1/mysqldoc.1*
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0.0.9-4mdv2011.0
++ Revision: 620426
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 0.0.9-3mdv2010.0
++ Revision: 430141
+- rebuild
+
+* Fri Aug 08 2008 Thierry Vignaud <tv@mandriva.org> 0.0.9-2mdv2009.0
++ Revision: 268227
+- rebuild early 2009.0 package (before pixel changes)
+
+* Mon Apr 21 2008 Oden Eriksson <oeriksson@mandriva.com> 0.0.9-1mdv2009.0
++ Revision: 196236
+- import mysqldoc
+
+
+* Mon Apr 21 2008 Oden Eriksson <oeriksson@mandriva.com> 0.0.9-1mdv2009.0
+- initial Mandriva package
