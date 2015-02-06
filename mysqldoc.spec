@@ -4,7 +4,7 @@
 Summary:	A command-line tool for auto-documenting MySQL Schema
 Name:		mysqldoc
 Version:	0.0.9
-Release:	%mkrel 4
+Release:	5
 Group:		System/Servers
 License:	GPL
 URL:		http://code.google.com/p/mysqldoc/
