@@ -7,7 +7,7 @@ Version:	0.0.9
 Release:	5
 Group:		System/Servers
 License:	GPL
-URL:		http://code.google.com/p/mysqldoc/
+URL:		https://code.google.com/p/mysqldoc/
 Source0:	http://mysqldoc.googlecode.com/files/%{name}-%{version}.tar.gz
 BuildRequires:	perl
 BuildArch:	noarch
